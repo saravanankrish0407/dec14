@@ -2,3 +2,4 @@ add /n
 commit
 push
 revert
+reset
